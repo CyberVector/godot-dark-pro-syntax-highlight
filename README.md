@@ -14,7 +14,7 @@
 ### Screenshots.
 
 Dark Pro:
-<img src="Pics/SyntaxThemes.jpg">
+<img src="https://raw.githubusercontent.com/7Cuellar/jc.img-repo/master/SyntaxThemes.jpg">
 ---------------------
 
 
